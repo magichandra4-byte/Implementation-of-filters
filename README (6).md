@@ -65,8 +65,8 @@ Display all filtered images using a grid layout for comparison.
 
 ##  Developed By
 
-- **Name:** ____________________________  
-- **Register No:** ______________________  
+- **Name:** VEDHA M 
+- **Register No:** 212225230292
 
 ---
 
@@ -74,16 +74,22 @@ Display all filtered images using a grid layout for comparison.
 
 ### Smoothing Filters
 
-- Averaging filter produces blurred image  
-- Weighted averaging provides smoother result with less distortion  
-- Gaussian filter preserves edges better while reducing noise  
-- Median filter removes salt-and-pepper noise effectively  
+- Averaging filter produces blurred image
+-  <img width="891" height="429" alt="image" src="https://github.com/user-attachments/assets/4845aaec-25d6-437f-a73b-283ba3798f47" />
+- Weighted averaging provides smoother result with less distortion
+- <img width="873" height="392" alt="image" src="https://github.com/user-attachments/assets/c7855f2d-c4d5-4695-9323-ec3678549888" />
+- Gaussian filter preserves edges better while reducing noise
+-  <img width="886" height="406" alt="image" src="https://github.com/user-attachments/assets/ad63ef74-2b01-4cd4-b8bf-ab32898acc4c" />
+- Median filter removes salt-and-pepper noise effectively
+- <img width="870" height="423" alt="image" src="https://github.com/user-attachments/assets/1f01ba57-aa0a-4f90-aff9-f03d919707cc" />
+  
 
 ###  Sharpening Filters
 
-- Laplacian kernel enhances edges and fine details  
-- Laplacian operator detects edges clearly in grayscale  
-
+- Laplacian kernel enhances edges and fine details
+- <img width="878" height="398" alt="image" src="https://github.com/user-attachments/assets/ee21e172-d00d-40f8-a35f-1f8fb777d9fb" />
+- Laplacian operator detects edges clearly in grayscale
+- <img width="877" height="371" alt="image" src="https://github.com/user-attachments/assets/7eaa1b9c-bb1f-4334-9b00-077cacfa7303" />
 ---
 
 ##  Result
